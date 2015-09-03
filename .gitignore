@@ -2,3 +2,4 @@ _site
 .sass-cache
 .Rakefile.swp
 Gemfile.lock
+_drafts
