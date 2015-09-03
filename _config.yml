@@ -1,0 +1,12 @@
+# Site settings
+title: Ashley's Blog
+email: ping@ashleytheiss.com
+description: > # this means to ignore newlines until "baseurl:"
+  Musings of a tech + IoT + multimedia entrepreneur, fullstack web developer, consultant, photographer, aspiring DJ and electronica producer, from Vancouver BC.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ashleytheiss.com" # the base hostname & protocol for your site
+twitter_username: beforeyouknowit
+github_username: beforeyouknowit
+
+# Build settings
+markdown: kramdown
