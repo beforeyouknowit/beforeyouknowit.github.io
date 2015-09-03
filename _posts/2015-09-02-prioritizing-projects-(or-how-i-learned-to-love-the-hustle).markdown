@@ -3,7 +3,7 @@ layout: post
 title: "Prioritizing Projects (or How I Learned to Love the Hustle)"
 author: Ashley Theiss
 date: 2015-09-02 15:33:26
-categories:
+tags:
 - productivity
 - product development
 - priorities
