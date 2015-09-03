@@ -8,6 +8,7 @@ tags:
 img: HERE.jpg
 thumb: HERE.jpg
 summary: Find out Ashley's tips and scripts for how to make your life with Jekyll and the Terminal completely streamlined.
+comments: true
 ---
 
 While I was in the process of building this Jekyll blog, and several other Jekyll-based sites I have on the go, I decided that I needed a simple, reliable, and consistent way of writing and posting new content onto each respective site.
