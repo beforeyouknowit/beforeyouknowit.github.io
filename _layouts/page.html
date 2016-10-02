@@ -12,6 +12,12 @@ layout: default
                             <img src="{{ "/images/" | append: page.banner_image | prepend: site.baseurl }}" alt="{% if page.banner_image_alt %}{{ page.banner_image_alt }}{% else %}{{ page.title }}{% endif %}">
                         </div><!-- .post-thumbnail -->
                         {% endif %}
+
+                        {% if page.imgur_img %}
+                        <div class="post-thumbnail">
+                            <img src="{{ page.imgur_img }}" alt="Externally hosted image.">
+                        </div>
+                        {% endif %}
                         <h1 class="entry-title">{{page.title}}</h1>
                     </div><!-- .entry-header-wrap -->
                 </header><!-- .entry-header -->

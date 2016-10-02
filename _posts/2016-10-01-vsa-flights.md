@@ -6,8 +6,7 @@ date: 2016-10-01 11:53:00
 tags: 
 - VSA
 - flight
-img: http://i.imgur.com/6xOzDyb.jpg
-thumb: HERE.jpg
+imgur_img: http://i.imgur.com/6xOzDyb.jpg
 summary: My last flights of the 2016 2016 sesaon of flying with VSA.
 comments: true
 ---
@@ -37,7 +36,7 @@ comments: true
 + I flew the entire takeoff and tow; a little bit bumpy off the field, partly because I didn't gently pull back on the stick as is preferable, e.g. waiting for the nose and centre wheel to lift on it's own.
 + Very smooth flying conditions, huge contrast compared to consistent turbulence and bumpiness back in August.
 + Very confidence building experience with flying the entire tow, especially because it was such smooth flight. 
-+ Released at 3000' over the middle of the bowl.
++ Released at 3000 ft over the middle of the bowl.
 + Getting back into coordinated medium and steep turns after 5 weeks without flying.
 + Flew the high key point over the Huskey station, still at about 1300 ft., did another coordinated left 360º turn, checked the two wind socks on the field, and flew to the Knoll, Dave took over the low key reference and final two left turns, lined up for the landing.
 + I handled all of the landing, although I was a little bit short (technically landing in the shorn long grass) and I should have flared the nose up a little bit more in the last few feet above the field.

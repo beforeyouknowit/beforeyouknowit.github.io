@@ -11,6 +11,12 @@ layout: default
                         {% if post.banner_image %}
                         <a href="{{site.baseurl}}{{post.url}}" class="post-thumbnail"><img src="{{ "/images/posts/" | append: post.banner_image | prepend: site.baseurl }}" alt="{% if post.banner_image_alt %}{{ post.banner_image_alt }}{% else %}{{ post.title }} {% endif %}"></a>
                         {% endif %}
+
+                        {% if post.imgur_img %}
+                        <div class="post-thumbnail">
+                            <img src="{{ post.imgur_img }}" alt="Externally hosted image.">
+                        </div>
+                        {% endif %}
                         <h2 class="entry-title"><a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark" title="Permanent Link to {{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h2>
                     </div><!-- .entry-header-wrap -->
                     <div class="entry-meta">
