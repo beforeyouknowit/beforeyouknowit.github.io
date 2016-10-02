@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "VSA End of 2016 Season Flights"
+title: "End of 2016 Season Gliding Flights"
 author: Ashley Theiss
 date: 2016-10-01 11:53:00
 tags: 
 - VSA
 - flight
-img: https://imgur.com/a/s4rVp.jpg
+img: http://i.imgur.com/6xOzDyb.jpg
 thumb: HERE.jpg
 summary: My last flights of the 2016 2016 sesaon of flying with VSA.
 comments: true
@@ -17,12 +17,12 @@ comments: true
 # Flight 15
 
 ### Goals:
-+ 
-
-<!--more-->
++ Back into flying after a 5 week break; aim is to fly smooth and speed-controlled gentle and medium turns, flying the takeoff, tow, release, manouvers, circuit, and landing.
 
 ### Conditions at CYHE:
 + 15ºC at ~10:30 AM briefing, partly cloudy, light rain anticipated to roll through the Hope valley. Some blue sky patches to the east, but cloud rolling in from the west.
+
+<!--more-->
 
 ### Flight record:
 + Flying: C-GVSA (Grob 103)
@@ -100,4 +100,3 @@ comments: true
 + Came in quite high to the reference point and low key, I did two conclusive left turns (with Andrew's prompts) and wound up high over the trees on the east end of the field, at about 550-600ft. Had to use a lot of spoilers to lose the height and speed.
 + I handled the approach and flare well, but was prompted to put the spoilers back to about half from full, and this made VSA accelerate just as I was beginning the flare, so I inadvertently overcorrected and lifted up and landed long, albeit smoothly and controlled.
 + Interesting ending flight to the season! I'm surprised that it's already been 17 flights into my gliding career, but I still have a lot to learn early next season, and have a ton of reading and PSTAR / radio course preparation work to do over the winter. Hopefully I'll make it back out here next Saturday for the hangar disassembly and season close mini party with familiar club members, etc. Onwards and upwards!
-
