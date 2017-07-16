@@ -3,3 +3,5 @@ _site
 .Rakefile.swp
 Gemfile.lock
 _drafts
+site.sublime-project
+site.sublime-workspace
