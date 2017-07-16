@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this blog
-description: An optional about page for BlogInn Jekyll theme
+description: An About page for Ashley's Site
 banner_image: aboutPage.jpg
 ---
 
